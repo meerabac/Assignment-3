@@ -51,5 +51,5 @@ Printing formatted output
 Organize the code in sections by using functions
 
 ## Summary
-This program gives a nice and simple example of using Python to solve real-world problems. It teaches you simple stuff like making variables, calculating percentages, and how to format that output for the human eye. It's most useful for beginners who are learning how to build programs that solve everyday business or finance tasks.
+This program gives a nice and simple example of using Python to solve real-world problems. It teaches you simple stuff like making variables, calculating percentages, and how to format that output for the human eye. It's most useful for beginners who are learning how to build programs that solve everyday business or finance tasks.](https://github.com/meerabac/Assignment-3)https://github.com/meerabac/Assignment-3https://github.com/meerabac/Assignment-3
 
